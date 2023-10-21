@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darshan
 - 👀 I’m interested in Web Development  
-- 🌱 I’m currently learning Laravael, React,Angular
+- 🌱 I’m currently learning Node js
 - 💞️ I’m looking to collaborate on React Native
 - 📫 How to reach me. ----> Email:darshankoli2397@gmail.com, Contact:7666832817
 - 🌐 https://darshankoli2397.github.io/dstech-solutions/
